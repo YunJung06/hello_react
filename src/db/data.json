@@ -1,0 +1,98 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "id": 4,
+      "day": 4
+      
+    },
+    {
+      "id": 5,
+      "day": 5
+      
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "day": "2",
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "4",
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": "3",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "1",
+      "eng": "hi",
+      "kor": "안녕",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "2",
+      "eng": "good",
+      "kor": "좋은, 좋다",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "2",
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "2",
+      "eng": "cool",
+      "kor": "시원함",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "day": "5",
+      "eng": "hohoho",
+      "kor": "haha",
+      "isDone": false,
+      "id": 18
+    }
+  ]
+}
